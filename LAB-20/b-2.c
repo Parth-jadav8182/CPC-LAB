@@ -18,10 +18,10 @@ int main()
     char str1[100], str2[100], str3[100];
 
     printf("Enter first string: ");
-    scanf("%99s", str1);
+    scanf("%s", str1);
 
     printf("Enter second string: ");
-    scanf("%99s", str2);
+    scanf("%s", str2);
 
     // 2. Function Calling
     my_strlen(str1);
@@ -58,7 +58,7 @@ void my_strcpy(char *dest, char *src)// This function is copy the string.
 
     *dest = '\0';
 
-    printf("Copied string = %s\n", dest - 5);
+    printf("Copied string = %s\n", dest);
 }
 
 void my_strcmp(char *s1, char *s2)// This function is check str1 == st2 /equality of string.
