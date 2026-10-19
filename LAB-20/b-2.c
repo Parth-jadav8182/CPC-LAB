@@ -49,16 +49,19 @@ void my_strlen(char *s)// this function find a str lenght.
 
 void my_strcpy(char *dest, char *src)// This function is copy the string.
 {
-    while (*src != '\0')
+      char *p, *q;
+
+    p = dest;
+    q = src;
+    while (*q !='\0')
     {
-        *dest = *src;
-        dest++;
-        src++;
+        *p = *q;
+        p++;
+        q++;
     }
+    *q = '\0';
 
-    *dest = '\0';
-
-    printf("Copied string = %s\n", dest);
+     printf("Copied string = %s\n", dest);
 }
 
 void my_strcmp(char *s1, char *s2)// This function is check str1 == st2 /equality of string.
