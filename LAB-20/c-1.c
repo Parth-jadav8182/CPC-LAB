@@ -18,10 +18,10 @@ int main()
     int n;
 
     printf("Enter first string: ");
-    scanf("%99s", a); // ex :hello
+    scanf("%s", a); // ex :hello
 
     printf("Enter second string: ");
-    scanf("%99s", b); // ex :world
+    scanf("%s", b); // ex :world
 
     printf("Enter number of characters (1 to 99): ");
     if (scanf("%d", &n) != 1 || n < 1 || n > 99) // any 1 to 100 char to put  / ex : 2
