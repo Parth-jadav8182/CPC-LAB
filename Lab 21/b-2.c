@@ -26,10 +26,10 @@ int main()
     scanf("%d", &s.id);
 
     printf("Enter Student Name : ");
-    scanf(" %[^\n]", s.name);
+    scanf(" [^\n]", s.name);
 
     printf("Enter City         : ");
-    scanf(" %[^\n]", s.addr.city);
+    scanf(" [^\n]", s.addr.city);
 
     printf("Enter Pincode      : ");
     scanf("%d", &s.addr.pincode);
