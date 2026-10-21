@@ -1,3 +1,5 @@
+// 4. Print average of three numbers. (with & without scanf) 
+
 #include<stdio.h>
 int main()
 {

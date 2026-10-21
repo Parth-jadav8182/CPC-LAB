@@ -1,3 +1,5 @@
+// 1. Print “Hello World”.
+
 #include<stdio.h>
 void main()
 {

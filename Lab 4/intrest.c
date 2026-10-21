@@ -1,16 +1,18 @@
+// 2. Print simple interest. (principal*roi*time period)/100)
+
+
 #include <stdio.h>
 
-void main();
+void main()
 {
+    int  principal,roi, time;
+      
+    printf("Enter the principal,roi and time period ");
+    scanf("%d %d %d ",&principal,&roi,&time);
+     
+    int a = (principal*roi*time)/100;
 
-        int feet;
+    printf("%d",a);
 
-        printf("enter feet");
-        scanf("%f", &feet);
-
-        float inches = 12 * feet;
-
-        printf("inches is %f", inches);
-
-        return 0;
+       
 }
