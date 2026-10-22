@@ -1,3 +1,5 @@
+// 3. Check whether given number is positive or negative. 
+
 #include<stdio.h>
 int main ()
 {
@@ -8,10 +10,13 @@ int main ()
 
 
     if(x%2==0){
-        printf("print even");
+        printf("print positive");
     }
     else{
-        printf("print odd");
+        printf("print negative");
  
     }
 }    
+
+
+

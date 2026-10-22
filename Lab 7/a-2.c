@@ -1,3 +1,5 @@
+// 1. Print day name of week using switch.  
+
 #include <stdio.h>
 void main()
 {

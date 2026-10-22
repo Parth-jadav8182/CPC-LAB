@@ -1,3 +1,5 @@
+//1. Print number and its square root for 0 to 9.
+
 #include <math.h>
 #include <stdio.h>
 int main()

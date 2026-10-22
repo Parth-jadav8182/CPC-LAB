@@ -1,3 +1,5 @@
+// 2. Check whether character is an alphabet or not using conditional operator. 
+
 int main()
 {
     char ch;

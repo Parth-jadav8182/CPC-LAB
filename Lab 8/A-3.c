@@ -1,3 +1,5 @@
+// 3. Print numbers between two given numbers which is divisible by 2.  
+
 #include <stdio.h>
 int main()
 {

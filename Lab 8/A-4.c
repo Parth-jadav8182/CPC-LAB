@@ -1,3 +1,5 @@
+// 4. Print sum of 1 to n numbers.
+
 #include <stdio.h>
 int main()
 {

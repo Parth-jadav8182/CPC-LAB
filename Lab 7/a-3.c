@@ -1,3 +1,6 @@
+// 3. Perform Addition, Subtraction, Multiplication and Division of 2 numbers as per user’s choice using 
+//switch.
+
 #include <stdio.h>
 void main()
 {

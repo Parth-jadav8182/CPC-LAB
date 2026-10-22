@@ -1,3 +1,5 @@
+// 1. Read 3 numbers, multiply largest number from first two numbers to third one using conditional. 
+
 #include <stdio.h>
 
 int main()
