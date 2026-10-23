@@ -1,3 +1,5 @@
+// 1. Print all uppercase and lowercase alphabets. 
+
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,5 @@
+// 2. Print multiplication table of a given number.
+
 #include <stdio.h>
 int main()
 {

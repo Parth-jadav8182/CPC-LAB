@@ -1,3 +1,5 @@
+// 5. Find factors of the given number. 
+
 #include<stdio.h>
 int main()
 {

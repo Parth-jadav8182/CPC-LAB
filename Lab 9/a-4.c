@@ -1,3 +1,5 @@
+// 3. Calculate 𝑥𝑦 without using power function.
+
 #include <math.h>
 #include <stdio.h>
 int main()
