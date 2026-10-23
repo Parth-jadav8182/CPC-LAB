@@ -32,6 +32,6 @@ void main()
     }
 
     printf("%s %s %d %d\n", b1.s, b1.a, b1.publication, b1.price);
-    printf("%s %s %d %d\n", b1.s, b1.a, b1.publication, b1.price);
-    printf("%s %s %d %d", b1.s, b1.a, b1.publication, b1.price);
+    printf("%s %s %d %d\n", b2.s, b2.a, b2.publication, b2.price);
+    printf("%s %s %d %d", b3.s, b3.a, b3.publication, b3.price);
 }
