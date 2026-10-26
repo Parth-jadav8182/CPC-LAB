@@ -1,3 +1,5 @@
+// 2. Find the sum and average of different numbers which are accepted by user as many as user wants.
+ 
  #include<stdio.h>
  int main()
  {

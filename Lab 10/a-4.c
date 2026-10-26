@@ -1,3 +1,5 @@
+// 4. Print digits of given number. 
+
 #include<stdio.h>
 
 int main(){
