@@ -5,7 +5,7 @@ void main()
 {
     float a,b,c;
     float largest;
-    printf("Evter the number : ");
+    printf("Enter the number : ");
     scanf("%f %f %f", &a,&b,&c);
 
     largest = (a<b) ? ((c<b)?(b):(c)) : (a<c)?(a):(c);
