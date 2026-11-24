@@ -4,7 +4,7 @@
 void main()
 {
     int Month;
-    printf("Evter the month(1-12) : ");
+    printf("Enter the month(1-12) : ");
     scanf("%d", &Month);
    
     switch (Month)
