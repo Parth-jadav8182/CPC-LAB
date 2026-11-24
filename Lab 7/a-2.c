@@ -1,10 +1,10 @@
-// 1. Print day name of week using switch.  
+// 2. Print days of months using switch.  
 
 #include <stdio.h>
 void main()
 {
     int Month;
-    printf("Evter the month(1-12) : ");
+    printf("Enter the month(1-12) : ");
     scanf("%d", &Month);
    
     switch (Month)
