@@ -1,4 +1,4 @@
-// 1. Print day name of week using switch.  
+// 1. Print day name of months using switch.  
 
 #include <stdio.h>
 void main()
